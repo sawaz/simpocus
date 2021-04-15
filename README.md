@@ -18,3 +18,5 @@ UI wise:
 - software is compatible with EDUS2 scenario files
 - each tag has also a graphical placeholder that helps when the tags need to be moved from a manikin to another one
 
+A demo presentation can be found here:
+https://www.youtube.com/watch?v=szGa0gDp4sg
